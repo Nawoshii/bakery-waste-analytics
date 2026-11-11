@@ -6,6 +6,9 @@ Bakery waste analysis in SQL and Tableau. Found 30% of production goes unsold, c
 
 **[VIEW THE DASHBOARD](https://public.tableau.com/views/BakerySalesVisualization_17943568651460/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+<img width="1974" height="1404" alt="image" src="https://github.com/user-attachments/assets/409aee5b-a020-449d-af92-f8672ddbf44d" />
+
+
 --
 ## The question
 
